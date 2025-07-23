@@ -38,7 +38,8 @@
         "locations": [],
         "parent_map": "World Map: Destroy Coral",
                 "condition": {
-            "Progressive Rock": 4
+            "Progressive Rock": 4,
+                    "Painted Power":  1
         },
         "exits": []
     },
